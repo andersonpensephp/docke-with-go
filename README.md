@@ -4,9 +4,9 @@ Projeto simples criado com a finalidade de demonstrar o uso do `Docker` com `Gol
 
 # Instalação
 
-```
-# Rode o comando:
+## Rode o comando:
 
+```
 docker run andersonfront/fullcycle:v1
 
 ```
