@@ -8,5 +8,4 @@ Projeto simples criado com a finalidade de demonstrar o uso do `Docker` com `Gol
 
 ```
 docker run andersonfront/fullcycle:v1
-
 ```
